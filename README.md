@@ -18,10 +18,15 @@ Leading the project’s test strategy and activities, I’m continuously growing
 
 ## Skills
 OS platforms: macOS, Windows, Android OS, iOS, Linux
+
 Languages: JavaScript, TypeScript, Java, Bash, SQL, HTML, XML, XPath
+
 Databases: MySQL, PostgreSQL, Oracle
-DevOps: Vercel, Docker, AWS
+
+DevOps: Vercel, Docker, AWS, GitHub Actions
+
 Tools and platforms: Cypress, JMeter, Jest, Appium, Selenium WebDriver, Maven, TestNG, Postman, Swagger, Charles Proxy, DevTools, Android Studio, ADB, Xcode, Virtual Box, Samsung Remote Test Lab, BrowserStack, AWS Device Farm, Git, GitHub, VS Code, IntelliJ IDEA, JIRA, TestRail, Trello, Confluence
+
 E-commerce specific: Vercel, Shopify, Algolia, Builder, Commercetools, Teamwork, Klaviyo, Yotpo
 
 <!--
