@@ -1,9 +1,12 @@
 Welcome to my GitHub repository! I'm Artem, a Software Developer in Test from California, United States.
 
 ## About Me
-I am a QA Engineer proficient in planning test procedures, writing test plans, creating test cases, bug reports, and other test documentation. 
+I am a QA Engineer proficient in planning test procedures, writing test plans, creating test cases, bug reports, and other test documentation.
+
 I specialize in both manual and automated software testing, covering all types of testing, from Functional and GUI testing to REST API and Back-end testing for web-based client-server and mobile applications (native iOS, Android, and cross-platform).
-My technical skills include JavaScript, TypeScript, Java, SQL, Bash, Zsh, CSS, HTML, XML, XPath, and more. I am experienced in mobile device cloud testing and proficient in using specialized tools, platforms, frameworks, and libraries such as Git (VCS/SCM), GitHub, Cypress, Jest, Selenium, Maven, TestNG, Appium, Android Studio, ADB, Postman, Swagger, Charles Proxy, Vercel, Shopify, Klaviyo, AWS and more.
+
+My technical skills include JavaScript, TypeScript, Java, SQL, Bash, Zsh, CSS, HTML, XML, XPath, and more. 
+I am experienced in mobile device cloud testing and proficient in using specialized tools, platforms, frameworks, and libraries such as Git (VCS/SCM), GitHub, Cypress, Jest, Selenium, Maven, TestNG, Appium, Android Studio, ADB, Postman, Swagger, Charles Proxy, Vercel, Shopify, Klaviyo, AWS and more.
 Extensive knowledge of the SDLC, SQA standards, methodology, procedures, and best practices allows me to always keep the results of the team at the highest quality level.
 
 ## Projects
